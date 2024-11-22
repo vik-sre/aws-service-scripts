@@ -1,0 +1,7 @@
+
+---
+
+### **4. Add and Commit Files**
+```bash
+git add .
+git commit -m "Initial commit: Add AWS scripts in Shell, Python, and PowerShell"
